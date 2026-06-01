@@ -21,7 +21,7 @@ academic analytical skills in statistics, data mining, and reporting.
 - Experience leading national-scale E‑Government projects (Iran)
 
 ### Data Analysis & Statistics
-- Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- Python (Pandas, NumPy, Scikit‑Learn, Matplotlib, Seaborn, Plotly)   
 - R (ANOVA, Regression, Hypothesis Testing, DoE)  
 - Statistical Reporting (RMarkdown, LaTeX)  
 - Exploratory Data Analysis & Business Insights  
