@@ -31,8 +31,7 @@ academic analytical skills in statistics, data mining, and reporting.
 - SQL Server (T‑SQL), MySQL  
 - ETL with Python (Pandas, PyODBC)  
 - Data Warehousing (Star Schema, SCD Type 2 — project-based)  
-- JSON Processing & Data Migration  
-- Experience working with medium to moderately large datasets (500k–1M+ rows)
+- JSON Processing & Data Migration
 
 ---
 
