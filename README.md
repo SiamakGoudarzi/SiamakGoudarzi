@@ -37,7 +37,7 @@ academic analytical skills in statistics, data mining, and reporting.
 
 ## 📁 Selected Projects
 
-### E‑Commerce Customer Insights (Python/R)
+### E‑Commerce Customer Insights (Python)
 RFM segmentation, churn indicators, and exploratory analysis.  
 Project-level ML (Random Forest) for educational/portfolio purposes.  
 Project: https://github.com/SiamakGoudarzi/ecommerce-customer-insights-dashboard
